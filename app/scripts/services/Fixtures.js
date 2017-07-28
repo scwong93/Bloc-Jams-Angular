@@ -41,7 +41,10 @@
           for (var i = 0; i < numberOfAlbums; i++) {
             album.push(albumPicasso);
           }
+<<<<<<< HEAD
           return album;
+=======
+>>>>>>> a-5
         }
 
         return Fixtures;
